@@ -1,0 +1,34 @@
+
+body {
+    background-color: #55a6e9;
+    color: white;
+    font-family: "Embed code", sans-serif;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height:700px;
+    margin: 0;
+}
+
+button {
+    background-color: #fd62c2;
+    color: white;
+    font-family: "Embed code", sans-serif;
+}
+
+.passo {
+    display: none;
+}
+
+.passo.ativo {
+    display:block;
+}
+
+main {
+    text-align: center;
+    max-width:65%;
+}
+
+img {
+    max-width: 65% ;
+}
